@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg4515"
+   version="1.1"
+   viewBox="0 0 11.518323 11.623871"
+   height="11.623871mm"
+   width="11.518323mm">
+  <title
+     id="title4556">SmoothieAq logo</title>
+  <defs
+     id="defs4509" />
+  <metadata
+     id="metadata4512">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SmoothieAq logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jesper L</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>The font used for the text in the logo is &quot;Gloria Hallelujah&quot; with some small adjustments. Thanks to Kimberly Geswein, https://fonts.google.com/specimen/Gloria+Hallelujah?selection.family=Gloria+Hallelujah
+The glass and straw it taken from the 26698 &quot;Smoothie&quot; icon from The Noun Project. Thanks to Jaclyne Ooi, https://thenounproject.com/search/?q=smoothie&amp;i=26698
+The raspberry PCB icon is of course inspired by the Raspberry Pi logo at https://raspberrypi.stackexchange.com/, but is made specially for SmoothieAq.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>(c) 2018 all rights reserved - may be used for non-commercial use when reffering to SmoothieAq components, software, site or documentation</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-3.751646,-17.962799)"
+     id="layer1">
+    <g
+       class="smoothieAqRaspberry"
+       id="g9799">
+      <path
+         style="opacity:1;solid-opacity:1;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         d="M 6.122911,20.859588 C 5.1193818,20.591842 4.0891192,21.23063 3.8184366,22.243954 3.5477537,23.257279 4.1228711,24.322368 5.1264003,24.590113 6.1299305,24.857859 7.1596886,24.220957 7.4303714,23.207632 7.701054,22.194308 7.1264412,21.127333 6.122911,20.859588 Z m -0.2580746,0.966125 c 0.4578899,0.122166 0.73654,0.610487 0.5993331,1.124133 -0.1372072,0.513647 -0.6218047,0.796309 -1.0796946,0.674142 -0.4578899,-0.122167 -0.737044,-0.6086 -0.5998359,-1.122247 0.1372069,-0.513646 0.6223076,-0.798195 1.0801974,-0.676028 z"
+         id="path5874-44" />
+      <path
+         style="opacity:1;solid-opacity:1;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 18.488281,53.070312 c -3.300229,-0.16345 -6.393891,2.103928 -7.289062,5.455079 -1.023053,3.829889 1.150493,7.855234 4.943359,8.867187 1.055469,0.281604 2.116185,0.290856 3.123047,0.08594 l 1.337891,2.902343 -4.650391,4.289063 a 1.8899528,1.8899528 0 0 0 -0.345703,0.435547 l -2.226563,3.830078 c -0.0991,-0.03132 -0.195422,-0.06864 -0.296875,-0.0957 -3.7928659,-1.011954 -7.6839778,1.394719 -8.7070309,5.224609 -1.0230535,3.82989 1.14854,7.863051 4.9414063,8.875 3.7928696,1.011954 7.6878846,-1.402528 8.7109376,-5.232422 0.646084,-2.418673 0.01427,-4.913262 -1.492188,-6.679687 l 2.191407,-3.775391 5.449218,-5.025391 a 1.8899528,1.8899528 0 0 0 0.435547,-2.177734 l -1.970703,-4.273437 c 1.036034,-0.931215 1.82288,-2.169318 2.207031,-3.607422 1.02305,-3.829886 -1.148538,-7.863047 -4.941406,-8.875 -0.474108,-0.126494 -0.94846,-0.199306 -1.419922,-0.222657 z m -0.205078,3.771485 c 0.216771,0.01099 0.434065,0.0458 0.650391,0.103515 1.730607,0.461734 2.784202,2.306708 2.265625,4.248047 -0.518579,1.941343 -2.351424,3.010562 -4.082031,2.548829 C 15.38658,63.280454 14.332984,61.441343 14.851562,59.5 c 0.453756,-1.698675 1.914245,-2.735135 3.431641,-2.658203 z m -6.824219,25.546875 c 0.216719,0.01119 0.434065,0.0458 0.650391,0.103516 1.730607,0.461729 2.786157,2.298891 2.267578,4.240234 -0.518578,1.941343 -2.351424,3.016421 -4.082031,2.554687 C 8.5643144,88.825376 7.5107185,86.980405 8.0292969,85.039062 8.483053,83.340387 9.941954,82.310371 11.458984,82.388672 Z"
+         transform="matrix(0.26458333,0,0,0.26458333,3.7516423,3.9234738)"
+         id="path5874-4-2" />
+      <path
+         style="opacity:1;solid-opacity:1;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 36.919922,71.625 c -2.421339,-0.119923 -4.72656,1.073982 -6.138672,3.039062 -0.812254,-0.260482 -1.631386,-0.53 -2.404297,-0.769531 -0.470045,-0.157946 6.53e-4,5.18e-4 -0.560547,-0.191406 -0.236749,-0.08311 -0.4878,-0.118407 -0.738281,-0.103516 -0.457334,0.03175 -0.887894,0.22745 -1.210937,0.552735 l -4.31836,4.304687 c -0.489377,0.487986 -0.674024,1.203745 -0.480469,1.867188 L 22,83.480469 c -1.560588,0.955608 -2.778835,2.507385 -3.287109,4.410156 -1.023054,3.82989 1.148538,7.861093 4.941406,8.873047 3.792869,1.011953 7.687884,-1.402532 8.710937,-5.232422 1.023054,-3.82989 -1.15049,-7.855242 -4.943359,-8.867188 -0.596588,-0.159172 -1.195214,-0.222945 -1.785156,-0.220703 l -0.619141,-2.105468 2.6875,-2.685547 c 0.0022,8.12e-4 0.0055,-8.13e-4 0.0078,0 0.218078,0.07185 0.469018,0.133666 0.642578,0.183594 0.186433,0.05957 0.808245,0.265022 1.076172,0.351562 -0.38233,3.468894 1.714334,6.847053 5.142578,7.761719 3.792869,1.011953 7.683977,-1.396673 8.707031,-5.226563 C 44.3043,76.89277 42.132713,72.861563 38.339844,71.849609 37.865735,71.723115 37.391383,71.64835 36.919922,71.625 Z m -0.205078,3.773438 c 0.216771,0.01099 0.434064,0.04385 0.65039,0.101562 1.730608,0.461734 2.784203,2.306708 2.265625,4.248047 -0.518577,1.941343 -2.351423,3.010562 -4.082031,2.548828 -1.730608,-0.46173 -2.784203,-2.300845 -2.265625,-4.242187 0.453756,-1.698672 1.914244,-2.733184 3.431641,-2.65625 z M 25.794922,86.212891 c 0.216719,0.01119 0.434065,0.0458 0.65039,0.103515 1.730605,0.46173 2.786156,2.300845 2.267579,4.242188 -0.518578,1.941343 -2.351424,3.016421 -4.082032,2.554687 -1.730607,-0.461733 -2.784203,-2.308657 -2.265625,-4.25 0.453756,-1.698675 1.912656,-2.728692 3.429688,-2.65039 z"
+         transform="matrix(0.26458333,0,0,0.26458333,3.7516423,3.9234738)"
+         id="path5874-7-10" />
+      <path
+         style="opacity:1;solid-opacity:1;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 12.812307,19.036063 c -1.00353,-0.267745 -2.033792,0.371043 -2.304474,1.384367 -0.270683,1.013325 0.304434,2.078413 1.307964,2.346159 1.003529,0.267745 2.033287,-0.369156 2.30397,-1.382481 0.270683,-1.013324 -0.30393,-2.080299 -1.30746,-2.348045 z m -0.258074,0.966125 c 0.45789,0.122167 0.736539,0.610487 0.599332,1.124134 -0.137207,0.513647 -0.621804,0.796309 -1.079694,0.674142 -0.45789,-0.122167 -0.737044,-0.6086 -0.599836,-1.122248 0.137206,-0.513646 0.622308,-0.798194 1.080198,-0.676028 z"
+         id="path5874-6-2" />
+    </g>
+  </g>
+</svg>

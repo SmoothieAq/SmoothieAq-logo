@@ -1,0 +1,5 @@
+The SmoothieAq logo is (c) copyright Jesper, but can xxxx
+
+The font used for the text in the logo is "Gloria Hallelujah" with some small adjustments. Thanks to Kimberly Geswein, https://fonts.google.com/specimen/Gloria+Hallelujah?selection.family=Gloria+Hallelujah
+The glass and straw it taken from the 26698 "Smoothie" icon from The Noun Project. Thanks to Jaclyne Ooi, https://thenounproject.com/search/?q=smoothie&i=26698
+The raspberry PCB icon is of course inspired by the Raspberry Pi logo at https://raspberrypi.stackexchange.com/, but is made specially for SmoothieAq.

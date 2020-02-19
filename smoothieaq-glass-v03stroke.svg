@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16.004381mm"
+   height="25.408953mm"
+   viewBox="0 0 16.004382 25.408953"
+   version="1.1"
+   id="svg4515"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="smoothieaq-glass-v03stroke.svg">
+  <title
+     id="title4556">SmoothieAq logo</title>
+  <defs
+     id="defs4509" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#f5c523"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="10.674863"
+     inkscape:cx="12.732582"
+     inkscape:cy="53.63122"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1980"
+     inkscape:window-height="1368"
+     inkscape:window-x="159"
+     inkscape:window-y="1"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="false" />
+  <metadata
+     id="metadata4512">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SmoothieAq logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jesper L</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>The font used for the text in the logo is &quot;Gloria Hallelujah&quot; with some small adjustments. Thanks to Kimberly Geswein, https://fonts.google.com/specimen/Gloria+Hallelujah?selection.family=Gloria+Hallelujah
+The glass and straw it taken from the 26698 &quot;Smoothie&quot; icon from The Noun Project. Thanks to Jaclyne Ooi, https://thenounproject.com/search/?q=smoothie&amp;i=26698
+The raspberry PCB icon is of course inspired by the Raspberry Pi logo at https://raspberrypi.stackexchange.com/, but is made specially for SmoothieAq.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>(c) 2018 all rights reserved - may be used for non-commercial use when reffering to SmoothieAq components, software, site or documentation</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.8015632,-4.1281521)">
+    <g
+       id="g13223">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path12642"
+         d="M 6.1558495,21.382918 4.8422105,9.4362392 18.598241,9.4610248 16.541033,28.099827 h -4.6597"
+         style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path12644"
+         d="M 9.2044833,28.223755 7.2464177,28.19897 7.1968464,28.000685"
+         style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path12646"
+         d="M 6.5772055,25.162728 6.3913131,23.911054"
+         style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path12648"
+         d="M 19.367393,5.2048582 15.977597,4.5606452 13.63636,14.178219"
+         style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cssc"
+         inkscape:connector-curvature="0"
+         id="path12650"
+         d="m 5.3815691,14.265849 c 0,0 2.0246681,-1.07895 3.1371711,-1.174248 2.2512248,-0.192842 4.4109858,1.479864 6.6599158,1.261879 1.064661,-0.103196 2.979436,-1.191775 2.979436,-1.191775"
+         style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#cc0000;stroke-width:0.90000004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5874-44"
+       cx="11.298918"
+       cy="20.507269"
+       rx="1.3693484"
+       ry="1.4308845"
+       transform="matrix(0.96620194,0.25778636,-0.25807462,0.96612499,0,0)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#cc0000;stroke-width:0.90000004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5874-4-2"
+       cx="13.365301"
+       cy="24.01651"
+       rx="1.3693484"
+       ry="1.4308845"
+       transform="matrix(0.96620194,0.25778636,-0.25807462,0.96612499,0,0)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#cc0000;stroke-width:0.90000004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5874-7-10"
+       cx="17.291214"
+       cy="24.01651"
+       rx="1.3693484"
+       ry="1.4308845"
+       transform="matrix(0.96620194,0.25778636,-0.25807462,0.96612499,0,0)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#cc0000;stroke-width:0.90000004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5874-9-79"
+       cx="19.344397"
+       cy="20.507235"
+       rx="1.3693484"
+       ry="1.4308845"
+       transform="matrix(0.96620194,0.25778636,-0.25807462,0.96612499,0,0)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#cc0000;stroke-width:0.90000004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5874-6-2"
+       cx="17.291214"
+       cy="17.021233"
+       rx="1.3693484"
+       ry="1.4308845"
+       transform="matrix(0.96620194,0.25778636,-0.25807462,0.96612499,0,0)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#cc0000;stroke-width:0.90000004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5874-76-3"
+       cx="13.365301"
+       cy="17.021233"
+       rx="1.3693484"
+       ry="1.4308845"
+       transform="matrix(0.96620194,0.25778636,-0.25807462,0.96612499,0,0)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#cc0000;stroke-width:0.89999998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.180519,26.305013 -0.3737387,-1.269376 1.1426167,-1.13954 c 1.168182,0.367939 0,0 1.168182,0.367939"
+       id="path5915-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#cc0000;stroke-width:0.89999998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 9.105708,21.116798 0.7029878,1.549795 -1.4962153,1.380235 -0.7950978,1.432347"
+       id="path5956-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
